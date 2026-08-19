@@ -1,0 +1,7 @@
+interface:
+  display_name: "CS336 Study Coach"
+  short_description: "Deep evidence-based coaching for Stanford CS336"
+  default_prompt: "Use $cs336-study-coach to diagnose my current CS336 topic and guide me toward independent mastery."
+
+policy:
+  allow_implicit_invocation: true
